@@ -1,39 +1,16 @@
-# 👋 Hey, I'm Abenezer Hailu
-
-**Data Learner | Analyst-in-the-Making**
-
-I'm learning to clean, explore, and visualize data through hands-on practice and real-world examples. Passionate about turning messy datasets into meaningful insights and growing one project at a time.
-
+#  Abenezer Hailu
 ---
-
-## 🌱 Currently Exploring
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- SQL for data querying
-- Excel for analysis and reporting
-- Data visualization and basic statistics
-
+**Data Analyst | Marketing Analyst**
 ---
+Skills & Tools
 
-## 🛠️ Tools I’m Using
-
-- 📊 Python • SQL • Excel  
-- 📈 Matplotlib • Seaborn  • Plotly • Jupyter
-- 🛠️ Git • GitHub • Power BI *(learning)*
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,python,mysql,google bigquery,excel,power bi,git" />
+</p>
 ---
+## Connect with me
 
-## 📁 What You'll Find Here
-
-- Practice notebooks  
-- Mini case studies  
-- Visualizations and insights  
-
----
-
-## 📬 Let’s Connect
-
-- 📧 abenezerhailu.data@gmail.com
+- 📧 abenezerhailu25@gmail.com
 
 ---
 
