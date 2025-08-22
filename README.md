@@ -5,7 +5,8 @@
 ### Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,python,mysql,git,excel,powerbi,bigquery,jira" />
+  <img src="https://skillicons.dev/icons?i=postgresql,python,mysql,git,excel,powerbi,bigquery" />
+  <img src="./assets/jira.png" width="40" height="40" alt="Jira" />
 </p>
 
 ---
